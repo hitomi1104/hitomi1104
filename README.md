@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a biofuture intern at BioscienceLA 
-- 🌱 I’m currently learning Math, Stat, ML, Computer vision and more! I am student at UCI majoring in Math
-- 📫 How to reach me: ...
+- 🔭 I’m currently working at a oral care startup where I apply skills in **ML, Computer Vision, and Data Analytics**
+- 🌱 I’m currently working with a UCI professor to research computer vision related algorithms and applications of using CV to analyze 3D objects.
+- 📫 How to reach me: 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Crazy about CATS 🐈
 
