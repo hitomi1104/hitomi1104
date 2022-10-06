@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working at a oral care startup where I apply skills in **ML, Computer Vision, and Data Analytics**
-- 🌱 I’m currently working with a UCI professor to research computer vision related algorithms and applications of using CV to analyze 3D objects.
+- 🔭 I’m currently working with a UCI professor to research computer vision related algorithms and applications of using CV to analyze 3D objects
 - 📫 How to reach me: 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Crazy about CATS 🐈
